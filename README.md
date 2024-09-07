@@ -14,9 +14,9 @@
 <BR>
 <BR>
 <H4><B>👨🏻‍💻Projects and Developments:</B></H4>
-<B><a href="https://github.com/sohamb03/Medcal_const_bot">TURFBOT(Chatbot)</a>:</B>  Developed a chatbot using Dialogflow, integrated with Integromat to streamline turf slot bookings .<BR>
-<B> Credit Evaluation Tool (ML integrated backend model) :</B>  Built a full-stack application(HTML/CSS, Flask, Pickle-serialized ensemble ML model.<BR>
-<B>RPA Integration with an OPEN AI platform:</B> Employed API keys to seamlessly link the OpenAI platform with Microsoft Azure and UI Path .<BR>
+<B><a href="https://github.com/sohamb03/turf_bot">TURFBOT(Chatbot)</a>:</B>  Developed a chatbot using Dialogflow, integrated with Integromat to streamline turf slot bookings .<BR>
+<B> <a href="https://github.com/sohamb03/Credit_evaluation_tool">Credit Evaluation Tool (ML integrated backend model)</a> :</B>  Built a full-stack application(HTML/CSS, Flask, Pickle-serialized ensemble ML model.<BR>
+<B><a href="https://github.com/sohamb03/Medcal_const_bot"> RPA Integration with an OPEN AI platform</a>   :</B> Employed API keys to seamlessly link the OpenAI platform with Microsoft Azure and UI Path .<BR>
  .....& more.
 <BR>
 <BR>
