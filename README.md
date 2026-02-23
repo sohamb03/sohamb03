@@ -1,5 +1,5 @@
 <H3><B>ABOUT ME:<BR></B></H3>
-👋 Hello! I’m Soham Balekundri , a passionate developer with a knack for solving complex problems. I’m 21 years old and currently immersed in a variety of projects, from chatbot development to optimizing algorithms.
+👋 Hello! I’m Soham Balekundri , a passionate developer with a knack for solving complex problems. I’m currently immersed in a variety of projects, from chatbot development to optimizing algorithms.
 <BR>
 <BR>
 <H4><B>💻 My expertise lies in:</B></H4>
